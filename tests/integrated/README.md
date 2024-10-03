@@ -1,0 +1,1 @@
+Nessa pasta você deve colocar os testes de integração
